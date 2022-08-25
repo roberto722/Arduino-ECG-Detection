@@ -9,7 +9,7 @@ If you want to get the source code don't hesitate to contact me!
 
 # Preview
 <img src="./SlideShows/Diapositiva17.PNG" width="600px">
-<img src="./SlideShows/final_prototype.jpg" width="600px">
+<img src="./final_prototype.jpg" width="600px">
 
 # Brief Project explanation
 <img src="./SlideShows/Diapositiva1.PNG" width="600px">
